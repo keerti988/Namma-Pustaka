@@ -18,7 +18,14 @@ NammaPustaka is an Android application developed for book lovers and students to
 - Gradle
 
 ## 📱 Screenshots
-Add your project screenshots here.
+<img width="1600" height="782" alt="image" src="https://github.com/user-attachments/assets/5b9193c5-618f-430c-ac6b-cba5cb8c604b" />
+<img width="1312" height="1600" alt="image" src="https://github.com/user-attachments/assets/3d4add36-edb7-468b-8956-627894837328" />
+<img width="1399" height="1600" alt="image" src="https://github.com/user-attachments/assets/7deff20a-2b6e-479f-8c6f-85d860c06028" />
+<img width="1440" height="1464" alt="image" src="https://github.com/user-attachments/assets/e61d9ce8-b041-4738-8f2f-9b7a8b86e5cc" />
+
+
+
+
 
 ## 📂 Project Structure
 ```text
